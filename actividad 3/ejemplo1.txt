@@ -1,0 +1,8 @@
+INICIO
+	definir cuantas notas totales hay y guardarlo en t_notas
+	para cada nota desde 1 hata t_notas   
+		leer nota
+		suma= sumar las notas hasta t_notas 
+	promeio= suma/t_notas 
+	print promedio
+FIN 

@@ -1,0 +1,11 @@
+INICIO 
+	ID= colocar el numero de identificación
+	separar los dígitos uno por uno
+	suma= sumar los dígitos del ID 
+	dividir= suma/10
+	repetir dividir hasta que dividir ==1  
+	sí Dividir == 1
+		print= su DNI es válido  
+	si Dividir /= 1 
+		print= su DNI no es válido 
+FIN
