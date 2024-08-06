@@ -1,0 +1,33 @@
+INICIO 
+    leer la fecha:
+        dia_hoy=dia de hoy
+        mes_hoy=mes actual
+        año_hoy=año actual
+
+    leer la fecha de nacimiento: 
+        dia_a= dia de nacimiento 
+        mes_a= mes "" ""
+        año_a= año "" "" 
+    resta_a= año_hoy-año_a
+    resta_m= mes_hoy-mes_a
+    resta_d= dia_hoy-dia_a
+    if  
+        resta_m>0 
+        print ("tiene {resta_a}años y yá cumplió")
+    elif 
+        resta_m=0 
+            if
+                resta_d=0
+                print ("está cumpliendo {resta_a}años hoy, feliz cumpleaños") 
+            elif
+                resta_d>0
+                print (f"tiene {resta_a}años, y {resta_d}dias")
+            else 
+                dia_p= resta_d*-1
+                print (f"le faltan {dia_p} dias para cumplir años")
+    else
+        print("tiene {resta_a-1}años, aún no cumple")
+    
+FIN 
+
+
