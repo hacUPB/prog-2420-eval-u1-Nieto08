@@ -52,4 +52,4 @@
     Puertos y Conectores
         USB-C, HDMI,
         Bluetooth
-        ![mapa mental](./mapa.webp)  
+        ![mapa mental](C:\Users\JUAN NIETO\Desktop\mapa.webp)  
