@@ -52,4 +52,5 @@
     Puertos y Conectores
         USB-C, HDMI,
         Bluetooth
-        ![mapa mental](C:\Users\JUAN NIETO\Desktop\mapa.webp)  
+        ![mapa mental](file:///C:/Directorios/prog-2420-eval-u1-Nieto08/actividad%201/mapa.webp)  
+        
