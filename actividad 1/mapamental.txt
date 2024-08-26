@@ -1,0 +1,55 @@
+1. Hardware
+    Unidad Central de Procesamiento (CPU)
+        Procesador (Intel, AMD)
+        Núcleos y hilos
+        Caché
+    Memoria
+        RAM
+        ROM
+    Almacenamiento
+        Disco Duro (HDD)
+        Unidad de Estado Sólido (SSD)
+        Unidades ópticas (CD/DVD/Blu-ray)
+    Placa Base
+        Chipset
+        Ranuras de expansión (PCIe)
+        Puertos USB, HDMI, etc.
+    Fuente de Alimentación (PSU)
+    Tarjeta Gráfica (GPU)
+        Dedicada vs. integrada
+    Dispositivos de Entrada/Salida Internos
+        Tarjetas de sonido
+        Tarjetas de red
+2. Software
+    Sistema Operativo (OS)
+        Windows
+        macOS
+        Linux
+    Controladores (Drivers)
+    Aplicaciones de Usuario
+    Firmware
+        BIOS/UEFI
+    Utilidades de Sistema
+        Antivirus
+        Herramientas de diagnóstico
+3. Periféricos
+    Dispositivos de Entrada
+        Teclado
+        Ratón
+        Micrófono
+        Escáner
+    Dispositivos de Salida
+        Monitor
+        Impresora
+        Altavoces
+    Dispositivos de Almacenamiento Externos
+        USB
+        Discos Duros Externos
+4. Conectividad
+    Redes
+        Ethernet
+        Wi-Fi
+    Puertos y Conectores
+        USB-C, HDMI,
+        Bluetooth
+        ![mapa mental](./mapa.webp)  
