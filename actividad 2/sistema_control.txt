@@ -1,0 +1,14 @@
+    modulo de los sensores
+        velocidad 
+        altitud 
+        temperatura 
+    codificacion de sensores 
+    (2bits)
+    modulo de decodificacion 
+        verificar que no hay errores
+    modulo de conversion binaria a decimal
+    modulo de calculo del error 
+    modulo de decimal a binario 
+    modulo de control 
+    modulo de codificacion de la cpu 
+    
